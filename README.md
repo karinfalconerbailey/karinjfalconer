@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @karinjfalconer but you can call me Karin :)
+- 👋 Hello, I’m @karinjfalconer but it is just Karin (Ka-rin).
 - 👀 I’m interested in data analytics, machine learning, and visual analytics.
 - 🌱 I’m currently improving my coding skills (python) for data analysis while working as a data quality analyst and studying my master's degree.
 - 📫 You can reach me on LinkedIn @ linkedin.com/in/karinfalconerbailey117/
